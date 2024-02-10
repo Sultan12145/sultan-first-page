@@ -1,0 +1,44 @@
+body {	
+	font-size: 16px;
+	line-height: 26px;
+	background: #ffffff url("bg.png") no-repeat top center;
+}
+h1 {
+    border: 5px solid blue;
+	font-size: 2rem;
+}
+h2{
+    border: 3px solid green;
+}
+header {
+    border: 10px solid red;
+	
+}
+pre {
+    border: 3px solid blue;
+}
+ .s {
+    border: 3px solid red;
+}
+.“page-footer” {
+  border: 5px solid blue;
+  padding: 20px;
+  background-color: green;
+}
+
+main {
+	border: 5px solid #2d508f;
+	
+}
+.skills dd {
+background-color: #e8e8e8;
+margin: 0;
+margin-bottom: 10px;
+}
+.skills-level {
+	font-size: 12px;
+	text-align: center;
+	color: #ffffff;
+	background-color: #47bb52
+}
+.skills-level 
